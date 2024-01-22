@@ -1,3 +1,3 @@
 # JS-Storage-JSON
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/AaryanPanda/JS-Storage-JSON)
+Complete the challenges in script.js file using JS Storage and JSON concepts.
